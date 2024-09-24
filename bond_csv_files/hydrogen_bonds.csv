@@ -1,0 +1,1069 @@
+resnr,restype,reschain,resnr_lig,restype_lig,reschain_lig,sidechain,dist_h-a,dist_d-a,don_angle,protisdon,donoridx,donortype,acceptoridx,acceptortype,ligcoo,protcoo,pdbid
+506,ILE,A,599,3b,B,False,2.03,2.94,152.21,True,1827,Nam,2573,O2,"
+            ","
+            ",PDB_117_PROTEIN
+507,TYR,A,599,3b,B,False,3.15,3.64,112.24,True,1835,Nam,2573,O2,"
+            ","
+            ",PDB_117_PROTEIN
+487,THR,A,599,3b,B,True,2.13,2.86,130.76,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_313_PROTEIN
+506,ILE,A,599,3b,B,False,2.55,3.28,130.99,True,1827,Nam,2573,O2,"
+            ","
+            ",PDB_119_PROTEIN
+487,THR,A,599,3b,B,True,3.13,3.51,104.96,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_314_PROTEIN
+490,LYS,A,599,3b,B,False,3.03,3.51,111.47,True,1693,Nam,2573,O2,"
+            ","
+            ",PDB_186_PROTEIN
+487,THR,A,599,3b,B,True,1.78,2.59,138.51,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_172_PROTEIN
+461,VAL,A,599,3b,B,False,2.50,3.15,123.29,True,1480,Nam,2551,O2,"
+            ","
+            ",PDB_340_PROTEIN
+487,THR,A,599,3b,B,True,3.12,3.90,139.37,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_347_PROTEIN
+564,SER,A,599,3b,B,False,3.18,3.98,139.25,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_347_PROTEIN
+445,GLN,A,599,3b,B,True,2.52,3.19,125.67,True,1357,Nam,2573,O2,"
+            ","
+            ",PDB_181_PROTEIN
+524,SER,A,599,3b,B,False,2.91,3.83,155.81,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_181_PROTEIN
+487,THR,A,599,3b,B,False,2.31,3.28,167.10,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_188_PROTEIN
+487,THR,A,599,3b,B,True,3.46,3.82,104.30,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_188_PROTEIN
+487,THR,A,599,3b,B,True,2.50,3.16,125.77,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_349_PROTEIN
+487,THR,A,599,3b,B,False,2.52,3.48,167.10,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_127_PROTEIN
+487,THR,A,599,3b,B,True,3.08,3.77,129.79,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_127_PROTEIN
+464,ALA,A,599,3b,B,False,2.86,3.77,153.41,True,1503,Nam,2551,O2,"
+            ","
+            ",PDB_315_PROTEIN
+487,THR,A,599,3b,B,True,1.91,2.64,130.24,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_315_PROTEIN
+506,ILE,A,599,3b,B,False,3.62,4.01,106.79,True,1827,Nam,2573,O2,"
+            ","
+            ",PDB_116_PROTEIN
+507,TYR,A,599,3b,B,False,2.14,2.87,129.83,True,1835,Nam,2573,O2,"
+            ","
+            ",PDB_116_PROTEIN
+462,ASP,A,599,3b,B,False,3.47,4.03,118.23,True,1487,Nam,2551,O2,"
+            ","
+            ",PDB_377_PROTEIN
+564,SER,A,599,3b,B,False,1.74,2.71,166.48,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_377_PROTEIN
+462,ASP,A,599,3b,B,False,2.30,2.97,124.19,True,1487,Nam,2551,O2,"
+            ","
+            ",PDB_383_PROTEIN
+487,THR,A,599,3b,B,True,2.99,3.79,141.30,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_348_PROTEIN
+488,GLU,A,599,3b,B,False,2.34,3.14,137.53,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_174_PROTEIN
+525,PHE,A,599,3b,B,False,3.56,4.00,109.64,True,1990,Nam,2551,O2,"
+            ","
+            ",PDB_174_PROTEIN
+487,THR,A,599,3b,B,True,2.27,2.65,102.01,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_346_PROTEIN
+564,SER,A,599,3b,B,False,2.38,3.14,134.32,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_346_PROTEIN
+487,THR,A,599,3b,B,True,3.49,4.05,118.45,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_173_PROTEIN
+488,GLU,A,599,3b,B,False,2.28,3.03,131.81,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_173_PROTEIN
+546,VAL,A,599,3b,B,False,3.07,3.90,143.01,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_173_PROTEIN
+486,ASN,A,599,3b,B,True,2.99,3.59,120.94,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_233_PROTEIN
+487,THR,A,599,3b,B,True,3.05,3.36,100.39,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_234_PROTEIN
+524,SER,A,599,3b,B,False,2.94,3.78,143.64,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_234_PROTEIN
+531,THR,A,599,3b,B,False,2.62,3.37,132.89,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_234_PROTEIN
+487,THR,A,599,3b,B,True,3.54,4.05,115.01,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_462_PROTEIN
+525,PHE,A,599,3b,B,False,3.43,3.96,115.73,True,1990,Nam,2551,O2,"
+            ","
+            ",PDB_496_PROTEIN
+434,THR,A,599,3b,B,False,2.50,3.15,123.14,True,1260,Nam,2551,O2,"
+            ","
+            ",PDB_85_PROTEIN
+524,SER,A,599,3b,B,False,2.33,3.24,152.31,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_454_PROTEIN
+487,THR,A,599,3b,B,True,2.35,3.21,146.11,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_498_PROTEIN
+489,MET,A,599,3b,B,False,3.16,3.96,139.23,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_498_PROTEIN
+339,ASN,A,599,3b,B,False,1.90,2.83,156.71,True,512,Nam,2573,O2,"
+            ","
+            ",PDB_40_PROTEIN
+524,SER,A,599,3b,B,True,2.24,3.13,153.47,True,1987,O3,2551,O2,"
+            ","
+            ",PDB_453_PROTEIN
+396,GLU,A,599,3b,B,False,3.14,3.95,139.90,True,970,Nam,2551,O2,"
+            ","
+            ",PDB_14_PROTEIN
+525,PHE,A,599,3b,B,False,2.26,2.90,121.54,True,1990,Nam,2551,O2,"
+            ","
+            ",PDB_251_PROTEIN
+520,ASP,A,599,3b,B,True,3.13,3.98,150.67,True,1954,O3,2573,O2,"
+            ","
+            ",PDB_407_PROTEIN
+487,THR,A,599,3b,B,True,2.84,3.33,111.62,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_438_PROTEIN
+524,SER,A,599,3b,B,False,3.54,4.08,116.40,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_438_PROTEIN
+524,SER,A,599,3b,B,False,2.58,3.39,139.54,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_400_PROTEIN
+487,THR,A,599,3b,B,False,1.98,2.88,150.92,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_256_PROTEIN
+519,PHE,A,599,3b,B,False,3.26,3.96,129.80,True,1939,Nam,2551,O2,"
+            ","
+            ",PDB_256_PROTEIN
+489,MET,A,599,3b,B,False,1.82,2.77,163.41,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_269_PROTEIN
+524,SER,A,599,3b,B,False,2.34,3.18,142.88,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_269_PROTEIN
+445,GLN,A,599,3b,B,True,3.40,3.75,103.58,True,1357,Nam,2573,O2,"
+            ","
+            ",PDB_260_PROTEIN
+487,THR,A,599,3b,B,True,3.10,3.83,132.58,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_260_PROTEIN
+395,ASN,A,599,3b,B,True,2.37,3.03,123.71,True,967,Nam,2573,O2,"
+            ","
+            ",PDB_25_PROTEIN
+524,SER,A,599,3b,B,False,1.82,2.76,158.69,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_436_PROTEIN
+531,THR,A,599,3b,B,False,2.10,2.91,139.02,True,2035,Nam,2551,O2,"
+            ","
+            ",PDB_436_PROTEIN
+531,THR,A,599,3b,B,True,3.24,3.55,101.20,True,2038,O3,2551,O2,"
+            ","
+            ",PDB_436_PROTEIN
+487,THR,A,599,3b,B,False,2.56,3.55,176.27,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_294_PROTEIN
+487,THR,A,599,3b,B,True,3.16,3.62,110.53,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_294_PROTEIN
+445,GLN,A,599,3b,B,True,2.64,3.40,133.58,True,1357,Nam,2551,O2,"
+            ","
+            ",PDB_409_PROTEIN
+487,THR,A,599,3b,B,False,2.10,3.00,151.32,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_409_PROTEIN
+489,MET,A,599,3b,B,False,3.61,3.92,101.46,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_431_PROTEIN
+329,ASN,A,599,3b,B,True,2.06,2.82,132.23,True,441,Nam,2573,O2,"
+            ","
+            ",PDB_22_PROTEIN
+395,ASN,A,599,3b,B,False,2.80,3.64,143.27,True,962,Nam,2551,O2,"
+            ","
+            ",PDB_22_PROTEIN
+489,MET,A,599,3b,B,False,2.42,3.27,144.80,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_267_PROTEIN
+524,SER,A,599,3b,B,False,2.00,2.92,154.76,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_267_PROTEIN
+358,ASP,A,599,3b,B,False,2.49,3.37,148.59,True,651,Nam,2573,O2,"
+            ","
+            ",PDB_41_PROTEIN
+524,SER,A,599,3b,B,False,2.48,3.39,154.40,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_204_PROTEIN
+531,THR,A,599,3b,B,False,2.89,3.35,109.06,True,2035,Nam,2551,O2,"
+            ","
+            ",PDB_204_PROTEIN
+489,MET,A,599,3b,B,False,2.94,3.26,100.35,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_452_PROTEIN
+505,ARG,A,599,3b,B,True,2.77,3.35,118.32,True,1823,Ng+,2573,O2,"
+            ","
+            ",PDB_79_PROTEIN
+486,ASN,A,599,3b,B,False,3.13,3.78,124.84,True,1661,Nam,2551,O2,"
+            ","
+            ",PDB_464_PROTEIN
+389,ASP,A,599,3b,B,True,3.60,3.91,102.41,True,921,O3,2551,O2,"
+            ","
+            ",PDB_77_PROTEIN
+391,GLN,A,599,3b,B,True,1.97,2.95,174.78,True,940,Nam,2573,O2,"
+            ","
+            ",PDB_77_PROTEIN
+434,THR,A,599,3b,B,True,1.83,2.52,125.33,True,1263,O3,2551,O2,"
+            ","
+            ",PDB_83_PROTEIN
+508,ASP,A,599,3b,B,False,3.24,3.88,124.47,True,1847,Nam,2573,O2,"
+            ","
+            ",PDB_83_PROTEIN
+487,THR,A,599,3b,B,False,2.84,3.59,133.30,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_266_PROTEIN
+487,THR,A,599,3b,B,False,2.11,2.92,137.83,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_295_PROTEIN
+488,GLU,A,599,3b,B,True,3.33,3.92,123.11,True,1682,O3,2551,O2,"
+            ","
+            ",PDB_261_PROTEIN
+489,MET,A,599,3b,B,False,1.64,2.62,177.67,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_261_PROTEIN
+524,SER,A,599,3b,B,False,1.99,2.97,173.27,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_261_PROTEIN
+531,THR,A,599,3b,B,True,3.23,3.84,123.21,True,2038,O3,2573,O2,"
+            ","
+            ",PDB_261_PROTEIN
+487,THR,A,599,3b,B,False,1.85,2.62,132.12,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_437_PROTEIN
+487,THR,A,599,3b,B,True,2.32,2.87,115.35,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_437_PROTEIN
+487,THR,A,599,3b,B,False,2.05,3.02,165.67,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_408_PROTEIN
+487,THR,A,599,3b,B,True,3.39,3.94,117.99,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_408_PROTEIN
+520,ASP,A,599,3b,B,True,2.66,3.10,109.34,True,1954,O3,2573,O2,"
+            ","
+            ",PDB_401_PROTEIN
+487,THR,A,599,3b,B,False,3.02,3.81,138.10,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_257_PROTEIN
+488,GLU,A,599,3b,B,True,3.11,4.01,161.74,True,1681,O3,2551,O2,"
+            ","
+            ",PDB_268_PROTEIN
+489,MET,A,599,3b,B,False,3.31,3.95,124.60,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_250_PROTEIN
+484,ASP,A,599,3b,B,True,2.54,3.47,170.24,True,1649,O3,2573,O2,"
+            ","
+            ",PDB_272_PROTEIN
+489,MET,A,599,3b,B,False,2.78,3.21,106.95,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_272_PROTEIN
+499,GLN,A,599,3b,B,True,1.70,2.65,162.32,True,1775,Nam,2573,O2,"
+            ","
+            ",PDB_5_PROTEIN
+488,GLU,A,599,3b,B,True,3.19,3.94,137.93,True,1681,O3,2551,O2,"
+            ","
+            ",PDB_281_PROTEIN
+391,GLN,A,599,3b,B,True,2.11,2.84,129.59,True,940,Nam,2573,O2,"
+            ","
+            ",PDB_30_PROTEIN
+487,THR,A,599,3b,B,False,2.16,3.08,154.71,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_288_PROTEIN
+488,GLU,A,599,3b,B,True,2.53,2.99,110.55,True,1682,O3,2551,O2,"
+            ","
+            ",PDB_288_PROTEIN
+524,SER,A,599,3b,B,False,2.19,3.07,148.39,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_288_PROTEIN
+531,THR,A,599,3b,B,False,2.30,3.19,149.84,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_288_PROTEIN
+335,LEU,A,599,3b,B,False,2.53,3.16,121.85,True,480,Nam,2551,O2,"
+            ","
+            ",PDB_39_PROTEIN
+524,SER,A,599,3b,B,False,2.46,3.32,146.09,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_415_PROTEIN
+531,THR,A,599,3b,B,False,3.12,4.01,151.30,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_415_PROTEIN
+487,THR,A,599,3b,B,True,3.14,4.00,150.03,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_210_PROTEIN
+485,GLN,A,599,3b,B,True,2.53,3.51,173.27,True,1658,Nam,2551,O2,"
+            ","
+            ",PDB_446_PROTEIN
+487,THR,A,599,3b,B,False,1.94,2.73,135.27,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_441_PROTEIN
+487,THR,A,599,3b,B,True,2.15,2.84,127.44,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_441_PROTEIN
+330,VAL,A,599,3b,B,False,2.29,2.98,126.79,True,444,Nam,2573,O2,"
+            ","
+            ",PDB_52_PROTEIN
+336,THR,A,599,3b,B,True,3.13,3.45,101.11,True,491,O3,2573,O2,"
+            ","
+            ",PDB_99_PROTEIN
+506,ILE,A,599,3b,B,False,3.45,3.97,114.78,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_99_PROTEIN
+544,LYS,A,599,3b,B,False,2.34,3.25,152.40,True,2136,Nam,2551,O2,"
+            ","
+            ",PDB_228_PROTEIN
+489,MET,A,599,3b,B,False,2.99,3.75,135.85,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_477_PROTEIN
+524,SER,A,599,3b,B,False,1.82,2.79,167.39,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_470_PROTEIN
+488,GLU,A,599,3b,B,False,2.83,3.48,124.18,True,1676,Nam,2551,O2,"
+            ","
+            ",PDB_226_PROTEIN
+532,LEU,A,599,3b,B,False,3.12,3.58,109.52,True,2042,Nam,2573,O2,"
+            ","
+            ",PDB_226_PROTEIN
+546,VAL,A,599,3b,B,False,1.87,2.81,159.62,True,2152,Nam,2551,O2,"
+            ","
+            ",PDB_226_PROTEIN
+546,VAL,A,599,3b,B,False,1.91,2.82,152.03,True,2152,Nam,2551,O2,"
+            ","
+            ",PDB_219_PROTEIN
+448,TYR,A,599,3b,B,True,1.76,2.69,169.00,True,1384,O3,2551,O2,"
+            ","
+            ",PDB_4_PROTEIN
+506,ILE,A,599,3b,B,False,2.92,3.69,135.92,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_4_PROTEIN
+507,TYR,A,599,3b,B,False,3.38,3.70,101.14,True,1835,Nam,2551,O2,"
+            ","
+            ",PDB_31_PROTEIN
+486,ASN,A,599,3b,B,True,3.10,3.62,114.14,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_274_PROTEIN
+524,SER,A,599,3b,B,False,2.81,3.67,145.54,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_274_PROTEIN
+524,SER,A,599,3b,B,False,3.22,4.09,147.69,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_280_PROTEIN
+498,GLN,A,599,3b,B,True,2.16,3.13,169.01,True,1766,Nam,2573,O2,"
+            ","
+            ",PDB_3_PROTEIN
+499,GLN,A,599,3b,B,False,2.70,3.60,150.72,True,1769,Nam,2573,O2,"
+            ","
+            ",PDB_3_PROTEIN
+510,SER,A,599,3b,B,False,3.22,3.70,111.14,True,1866,Nam,2551,O2,"
+            ","
+            ",PDB_3_PROTEIN
+486,ASN,A,599,3b,B,True,2.47,3.39,155.12,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_287_PROTEIN
+524,SER,A,599,3b,B,False,2.75,3.64,150.65,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_425_PROTEIN
+486,ASN,A,599,3b,B,True,2.04,2.97,156.67,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_273_PROTEIN
+506,ILE,A,599,3b,B,False,2.58,3.28,128.33,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_96_PROTEIN
+487,THR,A,599,3b,B,True,2.35,3.02,125.62,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_485_PROTEIN
+489,MET,A,599,3b,B,False,3.49,3.79,100.32,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_485_PROTEIN
+546,VAL,A,599,3b,B,False,1.82,2.77,163.19,True,2152,Nam,2551,O2,"
+            ","
+            ",PDB_227_PROTEIN
+489,MET,A,599,3b,B,False,2.70,3.22,113.34,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_218_PROTEIN
+564,SER,A,599,3b,B,False,3.51,3.82,101.17,True,2283,Nam,2573,O2,"
+            ","
+            ",PDB_218_PROTEIN
+564,SER,A,599,3b,B,False,2.12,2.98,144.80,True,2283,Nam,2573,O2,"
+            ","
+            ",PDB_220_PROTEIN
+487,THR,A,599,3b,B,False,2.70,3.44,131.94,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_476_PROTEIN
+487,THR,A,599,3b,B,True,2.73,3.55,142.15,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_476_PROTEIN
+516,THR,A,599,3b,B,True,3.28,4.04,136.87,True,1920,O3,2573,O2,"
+            ","
+            ",PDB_482_PROTEIN
+487,THR,A,599,3b,B,True,2.33,2.76,106.22,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_216_PROTEIN
+434,THR,A,599,3b,B,True,3.13,4.06,161.34,True,1263,O3,2551,O2,"
+            ","
+            ",PDB_98_PROTEIN
+462,ASP,A,599,3b,B,False,1.75,2.69,158.19,True,1487,Nam,2573,O2,"
+            ","
+            ",PDB_211_PROTEIN
+546,VAL,A,599,3b,B,False,2.43,3.39,162.72,True,2152,Nam,2551,O2,"
+            ","
+            ",PDB_211_PROTEIN
+485,GLN,A,599,3b,B,True,3.15,4.01,147.75,True,1658,Nam,2573,O2,"
+            ","
+            ",PDB_447_PROTEIN
+445,GLN,A,599,3b,B,True,2.82,3.68,145.79,True,1357,Nam,2551,O2,"
+            ","
+            ",PDB_397_PROTEIN
+487,THR,A,599,3b,B,False,3.40,4.00,121.81,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_169_PROTEIN
+488,GLU,A,599,3b,B,True,3.46,4.02,120.53,True,1682,O3,2551,O2,"
+            ","
+            ",PDB_169_PROTEIN
+524,SER,A,599,3b,B,False,2.01,2.98,171.06,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_364_PROTEIN
+531,THR,A,599,3b,B,False,3.14,4.08,161.61,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_364_PROTEIN
+524,SER,A,599,3b,B,False,2.77,3.11,100.96,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_399_PROTEIN
+487,THR,A,599,3b,B,True,3.10,3.51,106.90,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_352_PROTEIN
+490,LYS,A,599,3b,B,False,2.91,3.78,146.91,True,1693,Nam,2573,O2,"
+            ","
+            ",PDB_160_PROTEIN
+544,LYS,A,599,3b,B,False,3.59,3.94,103.55,True,2136,Nam,2573,O2,"
+            ","
+            ",PDB_160_PROTEIN
+488,GLU,A,599,3b,B,False,1.87,2.75,147.24,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_167_PROTEIN
+546,VAL,A,599,3b,B,False,1.90,2.82,156.01,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_167_PROTEIN
+524,SER,A,599,3b,B,False,2.07,3.02,161.23,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_355_PROTEIN
+545,VAL,A,599,3b,B,False,2.88,3.67,137.87,True,2145,Nam,2573,O2,"
+            ","
+            ",PDB_301_PROTEIN
+546,VAL,A,599,3b,B,False,2.36,3.27,152.34,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_301_PROTEIN
+487,THR,A,599,3b,B,True,2.80,3.20,105.83,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_306_PROTEIN
+564,SER,A,599,3b,B,False,2.48,3.38,152.64,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_306_PROTEIN
+488,GLU,A,599,3b,B,False,1.91,2.85,157.88,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_337_PROTEIN
+546,VAL,A,599,3b,B,False,2.08,2.89,137.73,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_337_PROTEIN
+506,ILE,A,599,3b,B,False,1.66,2.64,176.87,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_105_PROTEIN
+487,THR,A,599,3b,B,True,3.08,3.57,113.32,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_308_PROTEIN
+488,GLU,A,599,3b,B,False,2.47,3.11,122.18,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_308_PROTEIN
+531,THR,A,599,3b,B,False,2.99,3.58,120.16,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_159_PROTEIN
+487,THR,A,599,3b,B,True,3.29,3.63,102.39,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_166_PROTEIN
+485,GLN,A,599,3b,B,True,2.41,3.05,122.06,True,1658,Nam,2573,O2,"
+            ","
+            ",PDB_398_PROTEIN
+486,ASN,A,599,3b,B,False,3.09,3.74,124.34,True,1661,Nam,2573,O2,"
+            ","
+            ",PDB_398_PROTEIN
+487,THR,A,599,3b,B,True,2.98,3.43,109.16,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_398_PROTEIN
+488,GLU,A,599,3b,B,False,3.52,3.92,106.62,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_353_PROTEIN
+488,GLU,A,599,3b,B,False,3.06,3.46,105.65,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_391_PROTEIN
+546,VAL,A,599,3b,B,False,3.16,3.87,130.16,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_391_PROTEIN
+506,ILE,A,599,3b,B,False,2.29,3.25,164.37,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_104_PROTEIN
+487,THR,A,599,3b,B,True,2.28,2.76,109.84,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_336_PROTEIN
+484,ASP,A,599,3b,B,False,3.67,3.97,100.57,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_309_PROTEIN
+434,THR,A,599,3b,B,False,1.86,2.77,151.79,True,1260,Nam,2551,O2,"
+            ","
+            ",PDB_103_PROTEIN
+435,LYS,A,599,3b,B,False,2.20,2.89,125.93,True,1267,Nam,2551,O2,"
+            ","
+            ",PDB_103_PROTEIN
+564,SER,A,599,3b,B,False,1.95,2.86,151.87,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_307_PROTEIN
+546,VAL,A,599,3b,B,False,2.82,3.80,176.23,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_338_PROTEIN
+487,THR,A,599,3b,B,True,2.82,3.28,109.89,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_300_PROTEIN
+564,SER,A,599,3b,B,False,2.77,3.67,151.34,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_300_PROTEIN
+490,LYS,A,599,3b,B,False,3.57,4.06,112.82,True,1693,Nam,2573,O2,"
+            ","
+            ",PDB_176_PROTEIN
+487,THR,A,599,3b,B,False,2.73,3.43,128.74,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_182_PROTEIN
+445,GLN,A,599,3b,B,True,2.55,3.15,119.71,True,1357,Nam,2573,O2,"
+            ","
+            ",PDB_185_PROTEIN
+484,ASP,A,599,3b,B,False,2.52,3.10,117.45,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_171_PROTEIN
+486,ASN,A,599,3b,B,False,3.24,3.67,107.99,True,1661,Nam,2551,O2,"
+            ","
+            ",PDB_171_PROTEIN
+486,ASN,A,599,3b,B,True,1.90,2.87,167.71,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_171_PROTEIN
+487,THR,A,599,3b,B,False,3.11,3.91,139.46,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_171_PROTEIN
+462,ASP,A,599,3b,B,False,2.47,3.35,148.38,True,1487,Nam,2551,O2,"
+            ","
+            ",PDB_381_PROTEIN
+487,THR,A,599,3b,B,True,2.79,3.45,126.09,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_381_PROTEIN
+487,THR,A,599,3b,B,True,2.07,2.90,142.19,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_375_PROTEIN
+487,THR,A,599,3b,B,True,3.21,3.79,120.15,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_386_PROTEIN
+506,ILE,A,599,3b,B,False,2.83,3.70,148.80,True,1827,Nam,2573,O2,"
+            ","
+            ",PDB_114_PROTEIN
+490,LYS,A,599,3b,B,False,2.23,2.77,113.26,True,1693,Nam,2573,O2,"
+            ","
+            ",PDB_310_PROTEIN
+487,THR,A,599,3b,B,True,2.88,3.29,106.84,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_380_PROTEIN
+487,THR,A,599,3b,B,True,3.36,3.78,108.43,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_170_PROTEIN
+488,GLU,A,599,3b,B,False,2.38,3.09,128.40,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_170_PROTEIN
+484,ASP,A,599,3b,B,False,2.58,3.34,133.99,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_342_PROTEIN
+545,VAL,A,599,3b,B,False,2.93,3.63,128.72,True,2145,Nam,2573,O2,"
+            ","
+            ",PDB_177_PROTEIN
+488,GLU,A,599,3b,B,False,2.74,3.62,148.51,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_311_PROTEIN
+546,VAL,A,599,3b,B,False,3.06,3.90,144.75,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_311_PROTEIN
+524,SER,A,599,3b,B,False,2.56,3.45,151.12,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_316_PROTEIN
+531,THR,A,599,3b,B,False,3.02,3.91,150.53,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_316_PROTEIN
+484,ASP,A,599,3b,B,False,2.42,3.05,121.26,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_327_PROTEIN
+487,THR,A,599,3b,B,False,3.38,3.93,117.84,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_403_PROTEIN
+512,TYR,A,599,3b,B,True,2.63,3.47,149.02,True,1888,O3,2551,O2,"
+            ","
+            ",PDB_10_PROTEIN
+489,MET,A,599,3b,B,False,1.89,2.79,151.71,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_255_PROTEIN
+524,SER,A,599,3b,B,False,2.51,2.86,100.61,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_255_PROTEIN
+489,MET,A,599,3b,B,False,3.04,3.97,157.75,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_252_PROTEIN
+329,ASN,A,599,3b,B,True,2.97,3.34,103.76,True,441,Nam,2551,O2,"
+            ","
+            ",PDB_17_PROTEIN
+400,ASN,A,599,3b,B,True,1.83,2.75,155.57,True,1005,Nam,2573,O2,"
+            ","
+            ",PDB_17_PROTEIN
+487,THR,A,599,3b,B,False,3.04,3.73,127.81,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_404_PROTEIN
+486,ASN,A,599,3b,B,True,2.13,3.01,147.66,True,1666,Nam,2573,O2,"
+            ","
+            ",PDB_432_PROTEIN
+524,SER,A,599,3b,B,False,2.53,3.46,157.30,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_432_PROTEIN
+524,SER,A,599,3b,B,False,2.50,3.07,116.64,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_264_PROTEIN
+329,ASN,A,599,3b,B,True,2.78,3.66,148.72,True,441,Nam,2551,O2,"
+            ","
+            ",PDB_21_PROTEIN
+391,GLN,A,599,3b,B,True,2.00,2.88,147.14,True,940,Nam,2551,O2,"
+            ","
+            ",PDB_26_PROTEIN
+487,THR,A,599,3b,B,False,2.05,2.70,121.81,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_263_PROTEIN
+525,PHE,A,599,3b,B,False,2.13,2.94,139.11,True,1990,Nam,2551,O2,"
+            ","
+            ",PDB_297_PROTEIN
+400,ASN,A,599,3b,B,False,2.11,2.99,147.16,True,1000,Nam,2573,O2,"
+            ","
+            ",PDB_19_PROTEIN
+400,ASN,A,599,3b,B,True,2.82,3.58,134.37,True,1005,Nam,2573,O2,"
+            ","
+            ",PDB_19_PROTEIN
+487,THR,A,599,3b,B,False,2.64,3.58,160.04,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_208_PROTEIN
+531,THR,A,599,3b,B,False,2.01,2.82,138.28,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_208_PROTEIN
+390,LYS,A,599,3b,B,False,2.04,2.91,146.20,True,925,Nam,2551,O2,"
+            ","
+            ",PDB_72_PROTEIN
+487,THR,A,599,3b,B,False,1.97,2.94,169.65,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_461_PROTEIN
+434,THR,A,599,3b,B,False,2.77,3.71,159.73,True,1260,Nam,2551,O2,"
+            ","
+            ",PDB_86_PROTEIN
+444,GLU,A,599,3b,B,True,3.28,4.08,144.11,True,1347,O3,2551,O2,"
+            ","
+            ",PDB_86_PROTEIN
+524,SER,A,599,3b,B,False,1.89,2.80,152.38,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_492_PROTEIN
+487,THR,A,599,3b,B,True,2.24,3.07,143.41,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_466_PROTEIN
+524,SER,A,599,3b,B,False,2.36,3.31,162.52,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_230_PROTEIN
+531,THR,A,599,3b,B,False,3.04,3.51,110.96,True,2035,Nam,2551,O2,"
+            ","
+            ",PDB_230_PROTEIN
+484,ASP,A,599,3b,B,False,2.13,2.96,140.36,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_468_PROTEIN
+524,SER,A,599,3b,B,False,1.76,2.74,170.15,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_262_PROTEIN
+531,THR,A,599,3b,B,False,2.14,3.12,171.01,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_262_PROTEIN
+329,ASN,A,599,3b,B,True,3.63,3.97,103.11,True,441,Nam,2573,O2,"
+            ","
+            ",PDB_18_PROTEIN
+487,THR,A,599,3b,B,False,2.23,3.15,154.12,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_265_PROTEIN
+486,ASN,A,599,3b,B,True,2.26,3.20,160.62,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_291_PROTEIN
+486,ASN,A,599,3b,B,True,2.12,2.91,136.25,True,1666,Nam,2573,O2,"
+            ","
+            ",PDB_402_PROTEIN
+524,SER,A,599,3b,B,False,2.46,3.39,159.29,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_402_PROTEIN
+531,THR,A,599,3b,B,False,2.63,3.31,126.04,True,2035,Nam,2551,O2,"
+            ","
+            ",PDB_402_PROTEIN
+487,THR,A,599,3b,B,True,2.72,3.54,141.57,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_254_PROTEIN
+484,ASP,A,599,3b,B,True,3.18,4.06,156.96,True,1649,O3,2573,O2,"
+            ","
+            ",PDB_456_PROTEIN
+524,SER,A,599,3b,B,False,2.55,3.48,158.18,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_456_PROTEIN
+339,ASN,A,599,3b,B,False,2.26,3.05,135.79,True,512,Nam,2573,O2,"
+            ","
+            ",PDB_45_PROTEIN
+488,GLU,A,599,3b,B,False,3.07,4.01,159.98,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_200_PROTEIN
+434,THR,A,599,3b,B,True,2.05,2.76,128.76,True,1263,O3,2551,O2,"
+            ","
+            ",PDB_89_PROTEIN
+487,THR,A,599,3b,B,True,2.11,2.60,109.32,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_207_PROTEIN
+391,GLN,A,599,3b,B,True,2.77,3.39,121.92,True,940,Nam,2551,O2,"
+            ","
+            ",PDB_42_PROTEIN
+488,GLU,A,599,3b,B,False,2.06,2.83,134.23,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_458_PROTEIN
+546,VAL,A,599,3b,B,False,2.78,3.66,148.28,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_458_PROTEIN
+487,THR,A,599,3b,B,True,3.37,3.73,104.19,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_467_PROTEIN
+488,GLU,A,599,3b,B,False,2.58,2.94,101.76,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_467_PROTEIN
+546,VAL,A,599,3b,B,False,2.76,3.58,141.12,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_467_PROTEIN
+462,ASP,A,599,3b,B,False,2.96,3.89,157.56,True,1487,Nam,2573,O2,"
+            ","
+            ",PDB_231_PROTEIN
+390,LYS,A,599,3b,B,False,2.37,3.09,128.72,True,925,Nam,2551,O2,"
+            ","
+            ",PDB_74_PROTEIN
+391,GLN,A,599,3b,B,False,3.14,3.58,108.52,True,934,Nam,2551,O2,"
+            ","
+            ",PDB_74_PROTEIN
+523,LYS,A,599,3b,B,False,2.49,3.41,155.91,True,1975,Nam,2573,O2,"
+            ","
+            ",PDB_493_PROTEIN
+488,GLU,A,599,3b,B,False,2.41,3.26,144.96,True,1676,Nam,2551,O2,"
+            ","
+            ",PDB_209_PROTEIN
+546,VAL,A,599,3b,B,False,2.32,2.99,125.08,True,2152,Nam,2551,O2,"
+            ","
+            ",PDB_209_PROTEIN
+434,THR,A,599,3b,B,False,2.92,3.64,131.53,True,1260,Nam,2551,O2,"
+            ","
+            ",PDB_87_PROTEIN
+389,ASP,A,599,3b,B,True,3.37,3.96,123.37,True,921,O3,2551,O2,"
+            ","
+            ",PDB_73_PROTEIN
+390,LYS,A,599,3b,B,False,1.91,2.82,152.73,True,925,Nam,2551,O2,"
+            ","
+            ",PDB_73_PROTEIN
+391,GLN,A,599,3b,B,False,3.57,4.00,109.05,True,934,Nam,2551,O2,"
+            ","
+            ",PDB_73_PROTEIN
+487,THR,A,599,3b,B,True,2.74,3.48,133.39,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_236_PROTEIN
+486,ASN,A,599,3b,B,True,3.38,3.88,113.68,True,1666,Nam,2573,O2,"
+            ","
+            ",PDB_489_PROTEIN
+462,ASP,A,599,3b,B,False,2.99,3.37,104.18,True,1487,Nam,2573,O2,"
+            ","
+            ",PDB_213_PROTEIN
+524,SER,A,599,3b,B,False,2.25,3.23,171.54,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_473_PROTEIN
+462,ASP,A,599,3b,B,False,3.30,3.71,107.11,True,1487,Nam,2573,O2,"
+            ","
+            ",PDB_225_PROTEIN
+489,MET,A,599,3b,B,False,3.24,4.03,138.21,True,1685,Nam,2551,O2,"
+            ","
+            ",PDB_225_PROTEIN
+564,SER,A,599,3b,B,False,2.20,3.07,145.74,True,2283,Nam,2573,O2,"
+            ","
+            ",PDB_225_PROTEIN
+484,ASP,A,599,3b,B,False,2.35,3.08,130.08,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_487_PROTEIN
+487,THR,A,599,3b,B,True,3.42,3.93,114.82,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_487_PROTEIN
+336,THR,A,599,3b,B,True,1.84,2.68,142.12,True,491,O3,2573,O2,"
+            ","
+            ",PDB_93_PROTEIN
+487,THR,A,599,3b,B,True,2.66,3.25,120.10,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_222_PROTEIN
+391,GLN,A,599,3b,B,False,3.69,4.05,104.00,True,934,Nam,2551,O2,"
+            ","
+            ",PDB_67_PROTEIN
+487,THR,A,599,3b,B,True,3.19,3.61,107.69,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_474_PROTEIN
+507,TYR,A,599,3b,B,True,3.22,3.90,130.96,True,1842,O3,2551,O2,"
+            ","
+            ",PDB_58_PROTEIN
+498,GLN,A,599,3b,B,True,2.35,3.04,126.47,True,1766,Nam,2551,O2,"
+            ","
+            ",PDB_6_PROTEIN
+520,ASP,A,599,3b,B,True,2.75,3.21,111.67,True,1954,O3,2551,O2,"
+            ","
+            ",PDB_282_PROTEIN
+524,SER,A,599,3b,B,False,1.98,2.84,143.52,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_276_PROTEIN
+524,SER,A,599,3b,B,False,2.27,2.99,129.72,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_418_PROTEIN
+489,MET,A,599,3b,B,False,2.10,3.07,169.00,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_427_PROTEIN
+486,ASN,A,599,3b,B,True,3.07,3.89,142.33,True,1666,Nam,2551,O2,"
+            ","
+            ",PDB_271_PROTEIN
+488,GLU,A,599,3b,B,False,2.80,3.47,125.64,True,1676,Nam,2551,O2,"
+            ","
+            ",PDB_271_PROTEIN
+390,LYS,A,599,3b,B,False,3.53,3.96,109.44,True,925,Nam,2551,O2,"
+            ","
+            ",PDB_34_PROTEIN
+391,GLN,A,599,3b,B,False,3.00,3.76,135.18,True,934,Nam,2551,O2,"
+            ","
+            ",PDB_34_PROTEIN
+485,GLN,A,599,3b,B,True,3.29,3.81,115.15,True,1658,Nam,2551,O2,"
+            ","
+            ",PDB_285_PROTEIN
+489,MET,A,599,3b,B,False,2.11,2.98,146.30,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_247_PROTEIN
+524,SER,A,599,3b,B,False,2.65,3.39,132.44,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_411_PROTEIN
+499,GLN,A,599,3b,B,False,3.14,3.62,111.19,True,1769,Nam,2573,O2,"
+            ","
+            ",PDB_8_PROTEIN
+500,LEU,A,599,3b,B,False,1.96,2.91,161.30,True,1778,Nam,2573,O2,"
+            ","
+            ",PDB_8_PROTEIN
+487,THR,A,599,3b,B,True,2.86,3.68,142.62,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_429_PROTEIN
+489,MET,A,599,3b,B,False,3.43,3.83,106.81,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_429_PROTEIN
+490,LYS,A,599,3b,B,False,1.65,2.63,172.61,True,1693,Nam,2551,O2,"
+            ","
+            ",PDB_223_PROTEIN
+491,VAL,A,599,3b,B,False,3.29,3.65,103.18,True,1702,Nam,2551,O2,"
+            ","
+            ",PDB_223_PROTEIN
+524,SER,A,599,3b,B,False,2.71,3.69,171.74,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_475_PROTEIN
+531,THR,A,599,3b,B,False,2.07,2.88,138.29,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_475_PROTEIN
+524,SER,A,599,3b,B,False,2.75,3.57,141.72,True,1984,Nam,2551,O2,"
+            ","
+            ",PDB_481_PROTEIN
+391,GLN,A,599,3b,B,True,2.13,3.09,167.20,True,940,Nam,2573,O2,"
+            ","
+            ",PDB_59_PROTEIN
+487,THR,A,599,3b,B,True,3.34,4.01,127.20,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_486_PROTEIN
+487,THR,A,599,3b,B,False,1.88,2.82,157.04,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_472_PROTEIN
+487,THR,A,599,3b,B,True,2.50,2.86,101.50,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_472_PROTEIN
+488,GLU,A,599,3b,B,False,2.45,3.36,152.95,True,1676,Nam,2551,O2,"
+            ","
+            ",PDB_212_PROTEIN
+546,VAL,A,599,3b,B,False,2.62,3.41,136.52,True,2152,Nam,2551,O2,"
+            ","
+            ",PDB_212_PROTEIN
+506,ILE,A,599,3b,B,False,2.57,3.49,156.22,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_57_PROTEIN
+390,LYS,A,599,3b,B,False,2.68,3.51,141.78,True,925,Nam,2551,O2,"
+            ","
+            ",PDB_68_PROTEIN
+329,ASN,A,599,3b,B,True,3.19,3.65,110.64,True,441,Nam,2573,O2,"
+            ","
+            ",PDB_50_PROTEIN
+391,GLN,A,599,3b,B,True,3.12,3.75,122.96,True,940,Nam,2573,O2,"
+            ","
+            ",PDB_50_PROTEIN
+488,GLU,A,599,3b,B,False,2.51,3.17,123.98,True,1676,Nam,2551,O2,"
+            ","
+            ",PDB_215_PROTEIN
+487,THR,A,599,3b,B,False,3.42,3.76,103.07,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_488_PROTEIN
+487,THR,A,599,3b,B,False,3.14,3.71,117.85,True,1669,Nam,2551,O2,"
+            ","
+            ",PDB_241_PROTEIN
+487,THR,A,599,3b,B,True,2.08,2.71,120.93,True,1672,O3,2551,O2,"
+            ","
+            ",PDB_241_PROTEIN
+545,VAL,A,599,3b,B,False,2.40,3.31,152.84,True,2145,Nam,2573,O2,"
+            ","
+            ",PDB_241_PROTEIN
+546,VAL,A,599,3b,B,False,3.10,4.04,158.55,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_241_PROTEIN
+531,THR,A,599,3b,B,False,1.99,2.91,155.15,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_279_PROTEIN
+520,ASP,A,599,3b,B,True,3.25,3.97,135.27,True,1955,O3,2573,O2,"
+            ","
+            ",PDB_246_PROTEIN
+391,GLN,A,599,3b,B,True,2.41,3.27,145.40,True,940,Nam,2551,O2,"
+            ","
+            ",PDB_9_PROTEIN
+486,ASN,A,599,3b,B,True,1.75,2.71,163.87,True,1666,Nam,2573,O2,"
+            ","
+            ",PDB_410_PROTEIN
+526,SER,A,599,3b,B,False,3.26,4.03,136.61,True,2001,Nam,2551,O2,"
+            ","
+            ",PDB_419_PROTEIN
+486,ASN,A,599,3b,B,False,2.00,2.92,153.80,True,1661,Nam,2573,O2,"
+            ","
+            ",PDB_270_PROTEIN
+561,GLN,A,599,3b,B,True,3.19,4.08,151.57,True,2269,Nam,2573,O2,"
+            ","
+            ",PDB_248_PROTEIN
+485,GLN,A,599,3b,B,True,3.44,3.83,106.41,True,1658,Nam,2551,O2,"
+            ","
+            ",PDB_277_PROTEIN
+524,SER,A,599,3b,B,False,2.71,3.37,124.66,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_283_PROTEIN
+531,THR,A,599,3b,B,False,2.40,3.27,147.27,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_283_PROTEIN
+434,THR,A,599,3b,B,True,3.44,4.09,126.10,True,1263,O3,2551,O2,"
+            ","
+            ",PDB_108_PROTEIN
+564,SER,A,599,3b,B,False,2.61,3.47,145.57,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_302_PROTEIN
+462,ASP,A,599,3b,B,False,3.37,3.93,118.40,True,1487,Nam,2551,O2,"
+            ","
+            ",PDB_334_PROTEIN
+564,SER,A,599,3b,B,False,2.26,3.23,169.42,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_334_PROTEIN
+434,THR,A,599,3b,B,False,1.97,2.86,149.55,True,1260,Nam,2551,O2,"
+            ","
+            ",PDB_101_PROTEIN
+461,VAL,A,599,3b,B,False,2.97,3.51,116.34,True,1480,Nam,2551,O2,"
+            ","
+            ",PDB_393_PROTEIN
+564,SER,A,599,3b,B,False,3.02,3.99,169.02,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_360_PROTEIN
+488,GLU,A,599,3b,B,False,3.62,3.93,100.87,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_394_PROTEIN
+489,MET,A,599,3b,B,False,2.62,3.14,112.69,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_394_PROTEIN
+490,LYS,A,599,3b,B,False,3.24,3.77,115.53,True,1693,Nam,2573,O2,"
+            ","
+            ",PDB_369_PROTEIN
+544,LYS,A,599,3b,B,False,2.59,3.55,166.73,True,2136,Nam,2573,O2,"
+            ","
+            ",PDB_369_PROTEIN
+434,THR,A,599,3b,B,True,2.12,2.86,132.23,True,1263,O3,2551,O2,"
+            ","
+            ",PDB_100_PROTEIN
+487,THR,A,599,3b,B,True,3.32,4.04,132.30,True,1672,O3,2573,O2,"
+            ","
+            ",PDB_332_PROTEIN
+541,TYR,A,599,3b,B,True,2.75,3.17,108.19,True,2115,O3,2551,O2,"
+            ","
+            ",PDB_303_PROTEIN
+546,VAL,A,599,3b,B,False,2.21,3.19,173.64,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_303_PROTEIN
+488,GLU,A,599,3b,B,False,3.13,4.03,152.20,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_304_PROTEIN
+546,VAL,A,599,3b,B,False,2.29,3.09,137.27,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_304_PROTEIN
+333,SER,A,599,3b,B,True,2.20,2.64,106.41,True,469,O3,2573,O2,"
+            ","
+            ",PDB_109_PROTEIN
+391,GLN,A,599,3b,B,True,2.98,3.34,102.72,True,940,Nam,2551,O2,"
+            ","
+            ",PDB_109_PROTEIN
+506,ILE,A,599,3b,B,False,2.51,3.47,162.44,True,1827,Nam,2551,O2,"
+            ","
+            ",PDB_109_PROTEIN
+489,MET,A,599,3b,B,False,2.16,2.83,123.76,True,1685,Nam,2573,O2,"
+            ","
+            ",PDB_162_PROTEIN
+484,ASP,A,599,3b,B,False,2.56,3.32,134.18,True,1644,Nam,2573,O2,"
+            ","
+            ",PDB_196_PROTEIN
+490,LYS,A,599,3b,B,False,3.55,4.07,114.96,True,1693,Nam,2573,O2,"
+            ","
+            ",PDB_198_PROTEIN
+488,GLU,A,599,3b,B,False,2.80,3.64,143.84,True,1676,Nam,2573,O2,"
+            ","
+            ",PDB_395_PROTEIN
+546,VAL,A,599,3b,B,False,3.24,3.78,116.47,True,2152,Nam,2573,O2,"
+            ","
+            ",PDB_395_PROTEIN
+564,SER,A,599,3b,B,False,2.68,3.57,151.39,True,2283,Nam,2551,O2,"
+            ","
+            ",PDB_395_PROTEIN
+524,SER,A,599,3b,B,False,3.29,3.90,121.49,True,1984,Nam,2573,O2,"
+            ","
+            ",PDB_361_PROTEIN
+531,THR,A,599,3b,B,False,2.76,3.66,152.29,True,2035,Nam,2573,O2,"
+            ","
+            ",PDB_361_PROTEIN
+487,THR,A,599,3b,B,False,2.88,3.71,142.62,True,1669,Nam,2573,O2,"
+            ","
+            ",PDB_359_PROTEIN

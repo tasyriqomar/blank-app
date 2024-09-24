@@ -1,0 +1,811 @@
+resnr,restype,reschain,prot_idx_list,resnr_lig,restype_lig,reschain_lig,dist,offset,protcharged,lig_group,lig_idx_list,ligcoo,protcoo,pdbid
+505,ARG,A,"
+            ",599,3b,B,3.89,1.51,True,Aromatic,"
+            ","
+            ","
+            ",PDB_110_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.47,0.67,True,Aromatic,"
+            ","
+            ","
+            ",PDB_128_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.63,1.19,True,Aromatic,"
+            ","
+            ","
+            ",PDB_117_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.45,1.31,True,Aromatic,"
+            ","
+            ","
+            ",PDB_186_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,5.53,1.86,True,Aromatic,"
+            ","
+            ","
+            ",PDB_118_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.07,1.39,True,Aromatic,"
+            ","
+            ","
+            ",PDB_118_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.11,0.45,True,Aromatic,"
+            ","
+            ","
+            ",PDB_315_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.41,1.90,True,Aromatic,"
+            ","
+            ","
+            ",PDB_312_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,5.89,1.17,True,Aromatic,"
+            ","
+            ","
+            ",PDB_120_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,5.65,1.86,True,Aromatic,"
+            ","
+            ","
+            ",PDB_116_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.89,1.67,True,Aromatic,"
+            ","
+            ","
+            ",PDB_377_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.75,1.70,True,Aromatic,"
+            ","
+            ","
+            ",PDB_189_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.00,1.51,True,Aromatic,"
+            ","
+            ","
+            ",PDB_174_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.29,1.05,True,Aromatic,"
+            ","
+            ","
+            ",PDB_341_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,3.40,0.20,True,Aromatic,"
+            ","
+            ","
+            ",PDB_76_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.70,1.28,True,Aromatic,"
+            ","
+            ","
+            ",PDB_76_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.93,1.05,True,Aromatic,"
+            ","
+            ","
+            ",PDB_234_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.79,1.61,True,Aromatic,"
+            ","
+            ","
+            ",PDB_85_PROTEIN
+544,LYS,A,"
+            ",599,3b,B,3.85,0.33,True,Aromatic,"
+            ","
+            ","
+            ",PDB_85_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,3.21,0.31,True,Aromatic,"
+            ","
+            ","
+            ",PDB_78_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.38,0.56,True,Aromatic,"
+            ","
+            ","
+            ",PDB_78_PROTEIN
+362,LYS,A,"
+            ",599,3b,B,4.96,1.62,True,Aromatic,"
+            ","
+            ","
+            ",PDB_47_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,4.58,1.05,True,Aromatic,"
+            ","
+            ","
+            ",PDB_40_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,3.89,1.32,True,Aromatic,"
+            ","
+            ","
+            ",PDB_40_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.62,1.32,True,Aromatic,"
+            ","
+            ","
+            ",PDB_438_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.28,1.62,True,Aromatic,"
+            ","
+            ","
+            ",PDB_400_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.98,1.40,True,Aromatic,"
+            ","
+            ","
+            ",PDB_269_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.50,1.88,True,Aromatic,"
+            ","
+            ","
+            ",PDB_436_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.39,0.96,True,Aromatic,"
+            ","
+            ","
+            ",PDB_409_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.90,1.73,True,Aromatic,"
+            ","
+            ","
+            ",PDB_267_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.66,1.12,True,Aromatic,"
+            ","
+            ","
+            ",PDB_258_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,3.93,0.84,True,Aromatic,"
+            ","
+            ","
+            ",PDB_41_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.39,1.40,True,Aromatic,"
+            ","
+            ","
+            ",PDB_41_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,3.63,1.80,True,Aromatic,"
+            ","
+            ","
+            ",PDB_79_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.20,0.88,True,Aromatic,"
+            ","
+            ","
+            ",PDB_79_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.19,1.36,True,Aromatic,"
+            ","
+            ","
+            ",PDB_497_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.35,1.97,True,Aromatic,"
+            ","
+            ","
+            ",PDB_70_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.60,1.90,True,Aromatic,"
+            ","
+            ","
+            ",PDB_77_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,3.76,1.72,True,Aromatic,"
+            ","
+            ","
+            ",PDB_77_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.69,1.93,True,Aromatic,"
+            ","
+            ","
+            ",PDB_83_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.15,1.93,True,Aromatic,"
+            ","
+            ","
+            ",PDB_490_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.32,1.68,True,Aromatic,"
+            ","
+            ","
+            ",PDB_430_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.83,0.47,True,Aromatic,"
+            ","
+            ","
+            ",PDB_266_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.62,1.64,True,Aromatic,"
+            ","
+            ","
+            ",PDB_266_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.09,1.61,True,Aromatic,"
+            ","
+            ","
+            ",PDB_292_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.73,1.97,True,Aromatic,"
+            ","
+            ","
+            ",PDB_292_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.89,1.62,True,Aromatic,"
+            ","
+            ","
+            ",PDB_259_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.50,1.63,True,Aromatic,"
+            ","
+            ","
+            ",PDB_295_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.20,0.73,True,Aromatic,"
+            ","
+            ","
+            ",PDB_437_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.80,1.14,True,Aromatic,"
+            ","
+            ","
+            ",PDB_408_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.69,1.85,True,Aromatic,"
+            ","
+            ","
+            ",PDB_257_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.60,1.30,True,Aromatic,"
+            ","
+            ","
+            ",PDB_250_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.75,1.31,True,Aromatic,"
+            ","
+            ","
+            ",PDB_275_PROTEIN
+362,LYS,A,"
+            ",599,3b,B,3.74,0.78,True,Aromatic,"
+            ","
+            ","
+            ",PDB_30_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.66,1.24,True,Aromatic,"
+            ","
+            ","
+            ",PDB_30_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.44,0.96,True,Aromatic,"
+            ","
+            ","
+            ",PDB_288_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,3.75,1.48,True,Aromatic,"
+            ","
+            ","
+            ",PDB_39_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.94,1.64,True,Aromatic,"
+            ","
+            ","
+            ",PDB_415_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.92,1.89,True,Aromatic,"
+            ","
+            ","
+            ",PDB_244_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.30,1.29,True,Aromatic,"
+            ","
+            ","
+            ",PDB_244_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.91,1.95,True,Aromatic,"
+            ","
+            ","
+            ",PDB_210_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,5.67,1.41,True,Aromatic,"
+            ","
+            ","
+            ",PDB_55_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.62,0.84,True,Aromatic,"
+            ","
+            ","
+            ",PDB_446_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.02,1.54,True,Aromatic,"
+            ","
+            ","
+            ",PDB_446_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.88,1.51,True,Aromatic,"
+            ","
+            ","
+            ",PDB_479_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.67,1.80,True,Aromatic,"
+            ","
+            ","
+            ",PDB_52_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.54,1.22,True,Aromatic,"
+            ","
+            ","
+            ",PDB_63_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.54,1.94,True,Aromatic,"
+            ","
+            ","
+            ",PDB_413_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.83,0.30,True,Aromatic,"
+            ","
+            ","
+            ",PDB_289_PROTEIN
+544,LYS,A,"
+            ",599,3b,B,4.14,1.59,True,Aromatic,"
+            ","
+            ","
+            ",PDB_4_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.21,1.41,True,Aromatic,"
+            ","
+            ","
+            ",PDB_422_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.34,0.91,True,Aromatic,"
+            ","
+            ","
+            ",PDB_287_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,2.86,0.63,True,Aromatic,"
+            ","
+            ","
+            ",PDB_425_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.71,1.76,True,Aromatic,"
+            ","
+            ","
+            ",PDB_273_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.65,1.78,True,Aromatic,"
+            ","
+            ","
+            ",PDB_96_PROTEIN
+544,LYS,A,"
+            ",599,3b,B,4.82,1.58,True,Aromatic,"
+            ","
+            ","
+            ",PDB_96_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.11,1.36,True,Aromatic,"
+            ","
+            ","
+            ",PDB_471_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,4.77,1.64,True,Aromatic,"
+            ","
+            ","
+            ",PDB_62_PROTEIN
+490,LYS,A,"
+            ",599,3b,B,3.24,0.48,True,Aromatic,"
+            ","
+            ","
+            ",PDB_482_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.59,1.40,True,Aromatic,"
+            ","
+            ","
+            ",PDB_440_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.38,1.37,True,Aromatic,"
+            ","
+            ","
+            ",PDB_478_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.51,1.70,True,Aromatic,"
+            ","
+            ","
+            ",PDB_363_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.58,1.46,True,Aromatic,"
+            ","
+            ","
+            ",PDB_169_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.01,1.19,True,Aromatic,"
+            ","
+            ","
+            ",PDB_352_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.28,1.80,True,Aromatic,"
+            ","
+            ","
+            ",PDB_306_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.94,1.76,True,Aromatic,"
+            ","
+            ","
+            ",PDB_105_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.57,1.73,True,Aromatic,"
+            ","
+            ","
+            ",PDB_105_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.34,1.18,True,Aromatic,"
+            ","
+            ","
+            ",PDB_398_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.95,1.50,True,Aromatic,"
+            ","
+            ","
+            ",PDB_398_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,5.61,1.74,True,Aromatic,"
+            ","
+            ","
+            ",PDB_103_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,6.00,1.95,True,Aromatic,"
+            ","
+            ","
+            ",PDB_176_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.69,1.88,True,Aromatic,"
+            ","
+            ","
+            ",PDB_114_PROTEIN
+544,LYS,A,"
+            ",599,3b,B,3.83,0.63,True,Aromatic,"
+            ","
+            ","
+            ",PDB_125_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.48,0.95,True,Aromatic,"
+            ","
+            ","
+            ",PDB_317_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.33,0.81,True,Aromatic,"
+            ","
+            ","
+            ",PDB_115_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.90,1.05,True,Aromatic,"
+            ","
+            ","
+            ",PDB_403_PROTEIN
+490,LYS,A,"
+            ",599,3b,B,2.89,0.29,True,Aromatic,"
+            ","
+            ","
+            ",PDB_252_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.66,0.97,True,Aromatic,"
+            ","
+            ","
+            ",PDB_252_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.35,1.13,True,Aromatic,"
+            ","
+            ","
+            ",PDB_28_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.26,0.47,True,Aromatic,"
+            ","
+            ","
+            ",PDB_432_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.49,1.83,True,Aromatic,"
+            ","
+            ","
+            ",PDB_435_PROTEIN
+390,LYS,A,"
+            ",599,3b,B,3.41,1.78,True,Aromatic,"
+            ","
+            ","
+            ",PDB_72_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.74,1.46,True,Aromatic,"
+            ","
+            ","
+            ",PDB_72_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.50,0.53,True,Aromatic,"
+            ","
+            ","
+            ",PDB_461_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,4.89,0.60,True,Aromatic,"
+            ","
+            ","
+            ",PDB_81_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,5.94,1.28,True,Aromatic,"
+            ","
+            ","
+            ",PDB_75_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.74,1.28,True,Aromatic,"
+            ","
+            ","
+            ",PDB_468_PROTEIN
+362,LYS,A,"
+            ",599,3b,B,3.68,0.97,True,Aromatic,"
+            ","
+            ","
+            ",PDB_44_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.29,0.71,True,Aromatic,"
+            ","
+            ","
+            ",PDB_262_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.96,1.03,True,Aromatic,"
+            ","
+            ","
+            ",PDB_262_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.69,1.17,True,Aromatic,"
+            ","
+            ","
+            ",PDB_291_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.10,0.98,True,Aromatic,"
+            ","
+            ","
+            ",PDB_291_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.05,0.65,True,Aromatic,"
+            ","
+            ","
+            ",PDB_298_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.10,0.59,True,Aromatic,"
+            ","
+            ","
+            ",PDB_402_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.52,1.25,True,Aromatic,"
+            ","
+            ","
+            ",PDB_207_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.08,1.80,True,Aromatic,"
+            ","
+            ","
+            ",PDB_451_PROTEIN
+390,LYS,A,"
+            ",599,3b,B,4.49,1.52,True,Aromatic,"
+            ","
+            ","
+            ",PDB_74_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.58,1.52,True,Aromatic,"
+            ","
+            ","
+            ",PDB_80_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,5.49,1.77,True,Aromatic,"
+            ","
+            ","
+            ",PDB_80_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.59,1.79,True,Aromatic,"
+            ","
+            ","
+            ",PDB_494_PROTEIN
+544,LYS,A,"
+            ",599,3b,B,3.24,0.70,True,Aromatic,"
+            ","
+            ","
+            ",PDB_87_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.29,1.36,True,Aromatic,"
+            ","
+            ","
+            ",PDB_460_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.87,0.98,True,Aromatic,"
+            ","
+            ","
+            ",PDB_442_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,3.59,1.46,True,Aromatic,"
+            ","
+            ","
+            ",PDB_51_PROTEIN
+362,LYS,A,"
+            ",599,3b,B,3.43,1.56,True,Aromatic,"
+            ","
+            ","
+            ",PDB_56_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.36,1.28,True,Aromatic,"
+            ","
+            ","
+            ",PDB_473_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,3.66,1.70,True,Aromatic,"
+            ","
+            ","
+            ",PDB_60_PROTEIN
+390,LYS,A,"
+            ",599,3b,B,3.93,1.96,True,Aromatic,"
+            ","
+            ","
+            ",PDB_94_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.28,1.78,True,Aromatic,"
+            ","
+            ","
+            ",PDB_94_PROTEIN
+544,LYS,A,"
+            ",599,3b,B,5.76,1.78,True,Aromatic,"
+            ","
+            ","
+            ",PDB_94_PROTEIN
+490,LYS,A,"
+            ",599,3b,B,3.54,1.79,True,Aromatic,"
+            ","
+            ","
+            ",PDB_480_PROTEIN
+390,LYS,A,"
+            ",599,3b,B,3.91,1.59,True,Aromatic,"
+            ","
+            ","
+            ",PDB_93_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,4.26,1.91,True,Aromatic,"
+            ","
+            ","
+            ",PDB_93_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,3.99,1.15,True,Aromatic,"
+            ","
+            ","
+            ",PDB_67_PROTEIN
+490,LYS,A,"
+            ",599,3b,B,5.75,1.26,True,Aromatic,"
+            ","
+            ","
+            ",PDB_420_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.31,1.04,True,Aromatic,"
+            ","
+            ","
+            ",PDB_420_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.71,1.49,True,Aromatic,"
+            ","
+            ","
+            ",PDB_427_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.78,1.36,True,Aromatic,"
+            ","
+            ","
+            ",PDB_427_PROTEIN
+490,LYS,A,"
+            ",599,3b,B,3.74,1.52,True,Aromatic,"
+            ","
+            ","
+            ",PDB_271_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.56,1.19,True,Aromatic,"
+            ","
+            ","
+            ",PDB_429_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.75,1.66,True,Aromatic,"
+            ","
+            ","
+            ",PDB_416_PROTEIN
+338,LYS,A,"
+            ",599,3b,B,4.35,1.94,True,Aromatic,"
+            ","
+            ","
+            ",PDB_66_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.62,0.68,True,Aromatic,"
+            ","
+            ","
+            ",PDB_472_PROTEIN
+359,LYS,A,"
+            ",599,3b,B,5.19,1.26,True,Aromatic,"
+            ","
+            ","
+            ",PDB_61_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.38,0.87,True,Aromatic,"
+            ","
+            ","
+            ",PDB_57_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.50,0.33,True,Aromatic,"
+            ","
+            ","
+            ",PDB_57_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.28,1.48,True,Aromatic,"
+            ","
+            ","
+            ",PDB_444_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,3.68,1.39,True,Aromatic,"
+            ","
+            ","
+            ",PDB_50_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.39,1.18,True,Aromatic,"
+            ","
+            ","
+            ",PDB_417_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.90,1.64,True,Aromatic,"
+            ","
+            ","
+            ",PDB_417_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.07,1.78,True,Aromatic,"
+            ","
+            ","
+            ",PDB_246_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.36,1.03,True,Aromatic,"
+            ","
+            ","
+            ",PDB_410_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.70,1.83,True,Aromatic,"
+            ","
+            ","
+            ",PDB_419_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.36,1.26,True,Aromatic,"
+            ","
+            ","
+            ",PDB_426_PROTEIN
+362,LYS,A,"
+            ",599,3b,B,5.98,1.98,True,Aromatic,"
+            ","
+            ","
+            ",PDB_35_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.79,0.33,True,Aromatic,"
+            ","
+            ","
+            ",PDB_277_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,4.99,1.04,True,Aromatic,"
+            ","
+            ","
+            ",PDB_421_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,5.21,0.70,True,Aromatic,"
+            ","
+            ","
+            ",PDB_421_PROTEIN
+435,LYS,A,"
+            ",599,3b,B,3.17,0.81,True,Aromatic,"
+            ","
+            ","
+            ",PDB_101_PROTEIN
+505,ARG,A,"
+            ",599,3b,B,5.94,1.15,True,Aromatic,"
+            ","
+            ","
+            ",PDB_101_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.50,1.49,True,Aromatic,"
+            ","
+            ","
+            ",PDB_155_PROTEIN
+523,LYS,A,"
+            ",599,3b,B,3.56,1.73,True,Aromatic,"
+            ","
+            ","
+            ",PDB_366_PROTEIN
